@@ -1,6 +1,6 @@
 # Alice's Python Notebooks
 
-A collection of small-scale demonstrations you can [interact with live, online](https://mybinder.org/v2/gh/amcgregor/python-samples/HEAD), without needing to download or install Python itself.
+A collection of small-scale demonstrations you can [interact with live, online](https://mybinder.org/v2/gh/amcgregor/python-samples/HEAD), without needing to download or install Python itself. You can view the results of these experiments by examining any of the `ipynb` files within GitHub itself.
 
 
 License
